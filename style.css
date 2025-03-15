@@ -42,3 +42,21 @@ section {
   max-width: 500px;
   border-radius: 10px;
 }
+/* Aboutセクションのデザイン */
+#about {
+  text-align: center;
+  padding: 50px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* プロフィール画像のデザイン */
+.profile-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-top: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+}
